@@ -18,4 +18,3 @@ Rules:
 - [language=sql] Use Common Table Expressions often and when applicable.
 
 - [language=golang] All tests you write should be a table driven test.
-- [language=golang] If you are writing a function for a struct that.
