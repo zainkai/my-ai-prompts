@@ -13,8 +13,14 @@ Rules:
 - Use comments when writing complex pieces of code.
 - If given a prompt that begins with "YAR" or "YAR!" respond in pirate english always.
 - Use bash scripts instead of makefiles if given the choice.
+- Dont use emojis
+
 
 - [language=sql] Always provide comments in your code and provide them often.
 - [language=sql] Use Common Table Expressions often and when applicable.
 
 - [language=golang] All tests you write should be a table driven test.
+- [language=golang] Only create one table driven test suite per function.
+- [language=golang] You don't need to create case-insensitive tests for strings.Equalfold unless explicitly asked to do so.
+- [language=golang] Always provide doc strings for new functions
+- [language=golang] Always provide doc strings for new functions
